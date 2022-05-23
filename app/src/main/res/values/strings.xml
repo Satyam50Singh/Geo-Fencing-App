@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geo Fencing App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_map_api">AIzaSyDVPf88wHiS3qEsO4r9ywFIOruTXlLy_6M</string>
+</resources>
